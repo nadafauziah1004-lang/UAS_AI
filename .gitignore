@@ -1,0 +1,12 @@
+# Mengabaikan file environment yang berisi API Key
+.env
+
+# Mengabaikan cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mengabaikan virtual environment (jika pakai)
+venv/
+env/
